@@ -12,3 +12,14 @@ Selling Points:
 - Ease of transfer of Assets
 - Instant Payments
 - Traceability
+
+
+Features:
+- Storefront
+- Advanced Token Search
+- NFT rankings
+- NFT Listings
+- Listing Status
+- Crypto Wallet Integration
+
+  
