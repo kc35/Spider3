@@ -1,6 +1,6 @@
 # Spider3
 
-NFT marketplace DApp and other DApps. 
+Spider3 Consulting presents Aurora, a versatile NFT Marketplace built on ethereum that connects buyers and sellers.
 
 
 Selling Points: 
